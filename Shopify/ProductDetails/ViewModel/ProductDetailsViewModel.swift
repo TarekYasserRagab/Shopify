@@ -2,7 +2,7 @@
 //  ProductDetailsViewModel.swift
 //  BasicStructure
 //
-//  Created by n0shy on 18/07/2022.
+//  Created by Tarekon 18/07/2022.
 //
 
 import Foundation

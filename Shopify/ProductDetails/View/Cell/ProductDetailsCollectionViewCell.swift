@@ -2,7 +2,7 @@
 //  ProductDetailsCollectionViewCell.swift
 //  BasicStructure
 //
-//  Created by Ibrahem's on 06/07/2022.
+//  Created by Tarek on 06/07/2022.
 //
 
 import UIKit

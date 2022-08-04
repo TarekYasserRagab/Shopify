@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  BasicStructure
 //
-//  Created by n0shy on 14/07/2022.
+//  Created by Tarek on 14/07/2022.
 //
 
 import UIKit

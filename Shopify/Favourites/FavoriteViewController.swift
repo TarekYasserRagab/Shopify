@@ -2,7 +2,7 @@
 //  FavouriteViewController.swift
 //  BasicStructure
 //
-//  Created by Ibrahem's on 05/07/2022.
+//  Created by Tarek on 05/07/2022.
 //
 
 import UIKit
